@@ -1,0 +1,15 @@
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\bin\Debug\net10.0\Inventario.deps.json
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\bin\Debug\net10.0\Inventario.dll
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\bin\Debug\net10.0\Inventario.pdb
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\bin\Debug\net10.0\Core.dll
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\bin\Debug\net10.0\Core.pdb
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\Inventario.csproj.AssemblyReference.cache
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\Inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\Inventario.AssemblyInfoInputs.cache
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\Inventario.AssemblyInfo.cs
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\Inventario.csproj.Up2Date
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\Inventario.dll
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\refint\Inventario.dll
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\Inventario.pdb
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\ref\Inventario.dll

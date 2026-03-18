@@ -1,0 +1,17 @@
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\bin\Debug\net10.0\Ventas.deps.json
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\bin\Debug\net10.0\Ventas.dll
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\bin\Debug\net10.0\Ventas.pdb
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\bin\Debug\net10.0\Core.dll
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\bin\Debug\net10.0\Inventario.dll
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\bin\Debug\net10.0\Core.pdb
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\bin\Debug\net10.0\Inventario.pdb
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\obj\Debug\net10.0\Ventas.csproj.AssemblyReference.cache
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\obj\Debug\net10.0\Ventas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\obj\Debug\net10.0\Ventas.AssemblyInfoInputs.cache
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\obj\Debug\net10.0\Ventas.AssemblyInfo.cs
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\obj\Debug\net10.0\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\obj\Debug\net10.0\Ventas.csproj.Up2Date
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\obj\Debug\net10.0\Ventas.dll
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\obj\Debug\net10.0\refint\Ventas.dll
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\obj\Debug\net10.0\Ventas.pdb
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Ventas\obj\Debug\net10.0\ref\Ventas.dll

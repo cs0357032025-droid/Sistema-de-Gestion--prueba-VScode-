@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Clientes/Clientes.csproj" />
+  <Project Path="Core/Core.csproj" />
+  <Project Path="Inventario/Inventario.csproj" />
+  <Project Path="UI/UI.csproj" />
+  <Project Path="Ventas/Ventas.csproj" />
+</Solution>
