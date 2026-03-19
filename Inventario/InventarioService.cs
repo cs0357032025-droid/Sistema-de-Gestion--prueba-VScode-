@@ -6,42 +6,50 @@ namespace Inventario
 {
     public class InventarioService
     {
-        private List<Producto> _productos = new List<Producto>();
+        private readonly AppDbContext _context;
+
+        public InventarioService()
+        {
+            _context = new AppDbContext();
+        }
 
         // agregar producto nuevo
         public void AgregarProducto(Producto producto)
         {
-            _productos.Add(producto); // tenias _products
+            _context.Productos.Add(producto);
+            _context.SaveChanges();
         }
 
         // obtener todos los productos
         public List<Producto> ObtenerProductos()
         {
-            return _productos;
+            return _context.Productos.ToList();
         }
 
-        // buscar producto por su nombre :D
+        // buscar producto por nombre
         public Producto? BuscarProducto(string nombre)
         {
-            return _productos.FirstOrDefault(p => p.Nombre.ToLower() == nombre.ToLower());
+            return _context.Productos.FirstOrDefault(p => p.Nombre.ToLower() == nombre.ToLower());
         }
 
-        // actualizar stock cuando se hace una venta
+        // descontar stock cuando se hace una venta
         public void DescontarStock(Producto producto, int cantidad)
         {
             producto.Stock -= cantidad;
+            _context.SaveChanges();
         }
 
         // agregar stock cuando llega mercancia
         public void AgregarStock(Producto producto, int cantidad)
         {
             producto.Stock += cantidad;
+            _context.SaveChanges();
         }
 
         // verificar productos con stock bajo
         public List<Producto> ProductosStockBajo()
         {
-            return _productos.Where(p => p.Stock <= p.StockMinimo).ToList(); // tenias _prodctos
+            return _context.Productos.Where(p => p.Stock <= p.StockMinimo).ToList();
         }
     }
 }

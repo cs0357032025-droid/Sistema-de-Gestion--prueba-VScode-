@@ -13,3 +13,4 @@ C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\
 C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\refint\Inventario.dll
 C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\Inventario.pdb
 C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\ref\Inventario.dll
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Inventario\obj\Debug\net10.0\Inventario.sourcelink.json

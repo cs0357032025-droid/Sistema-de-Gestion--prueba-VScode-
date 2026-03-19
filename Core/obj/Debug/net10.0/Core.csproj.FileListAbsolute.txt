@@ -9,3 +9,5 @@ C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Core\obj\Debug\
 C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Core\obj\Debug\net10.0\refint\Core.dll
 C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Core\obj\Debug\net10.0\Core.pdb
 C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Core\obj\Debug\net10.0\ref\Core.dll
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Core\obj\Debug\net10.0\Core.sourcelink.json
+C:\Users\Jacinto\Desktop\Sistema-de-Gestion--prueba-VScode--main\Core\obj\Debug\net10.0\Core.csproj.AssemblyReference.cache
